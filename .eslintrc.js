@@ -1,7 +1,7 @@
 module.exports = {
   extends: "@mate-academy/eslint-config",
   env: {
-    jest: true,
+    jest: false,
   },
   rules: {
     "no-proto": 0,
